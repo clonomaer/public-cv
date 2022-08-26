@@ -1,6 +1,6 @@
 # Clonomaer's Public CV
 
-Tech enthusiast, 24 years old young mind with 2+ years of professional experience in software development. Fast learner. Craving for experience.  
+Tech enthusiast, 25 years old young mind with 2+ years of professional experience in software development. Fast learner. Craving for experience.  
 Currently working on a decentralized game project as the Web3 frontend developer and UI/UX designer at EngaLand.  
 small note: nearly all my past work is private (and not on github) so don't wonder if you don't find anything useful here.  
 
