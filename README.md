@@ -25,7 +25,7 @@ small note: nearly all my past work is private (and not on github) so don't wond
 
 - Experience with DeFi environment and tools
 - Understanding of most prominent EIP standards
-- Reading Solidity smart contracts and building JavaScript APIs for them
+- Reading Solidity smart contracts and building suitable TypeScript APIs for them
 - Understanding of essential security concerns of smart contracts
 - Handling Web3 aspects on frontend
 - Analyzing DeFi projects to decide on their general security and aspects of decentralization and trustlessness
