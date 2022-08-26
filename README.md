@@ -73,7 +73,7 @@ small note: nearly all my past work is private (and not on github) so don't wond
 ## EDUCATION
 
 - Bachelor  
-  September 2015 - August 2019  
+  2015 - 2019  
   Software Engineering
 
 ## Contact
