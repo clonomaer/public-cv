@@ -24,7 +24,7 @@ small note: nearly all my past work is private (and not on github) so don't wond
 ### BLOCKCHAIN
 
 - Experience with DeFi environment and tools
-- Understanding of most prominent ERC/EIP Ethereum standards
+- Understanding of most prominent EIP standards
 - Reading Solidity smart contracts and building JavaScript APIs for them
 - Understanding of essential security concerns of smart contracts
 - Handling Web3 aspects on frontend
